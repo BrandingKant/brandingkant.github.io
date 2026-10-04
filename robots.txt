@@ -1,0 +1,21 @@
+# Travelingo — honest travel guides
+# https://brandingkant.github.io
+
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://brandingkant.github.io/sitemap.xml
