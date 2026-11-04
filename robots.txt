@@ -1,4 +1,4 @@
-# BrandingKant — Technology, News & Gadgets
+# BrandingKant — Technology, Gadgets, News & AI
 # https://brandingkant.github.io
 
 User-agent: *
