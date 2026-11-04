@@ -1,4 +1,4 @@
-# Traveltico — honest travel guides
+# BrandingKant — Technology, News & Gadgets
 # https://brandingkant.github.io
 
 User-agent: *
